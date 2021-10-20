@@ -1,2 +1,2 @@
 # wifiPw
-Prints out the password from all networks you were connected to
+Prints out the password of all networks you were connected to
